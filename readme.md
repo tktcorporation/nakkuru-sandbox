@@ -1,5 +1,5 @@
 # README
 ## Introduction
 * あ
-* i
+* い
 * **u**
