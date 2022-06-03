@@ -1,0 +1,23 @@
+{
+    "name": "sandbox",
+    "version": "1.0.0",
+    "description": "* あ * い * **u**",
+    "main": "hello.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "run": "tsc && node hello.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/tktcorporation/nakkuru-sandbox.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/tktcorporation/nakkuru-sandbox/issues"
+    },
+    "homepage": "https://github.com/tktcorporation/nakkuru-sandbox#readme",
+    "dependencies": {
+        "axios": "^0.27.2"
+    }
+}
